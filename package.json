@@ -1,0 +1,19 @@
+{
+  "name": "webdev",
+  "version": "1.0.0",
+  "description": "html,css,javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thrishank/webdev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thrishank/webdev/issues"
+  },
+  "homepage": "https://github.com/thrishank/webdev#readme"
+}
